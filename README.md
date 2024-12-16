@@ -1,2 +1,5 @@
-# Welcome
-This repository contains a simple program that prints a personalized welcome message. When executed, it will display the name of user. 
+Description
+The program prints:
+"Welcome to the GitHub of Mutakabbir."
+
+It serves as a basic example of using printf in C and is ideal for beginners starting with programming and GitHub 
